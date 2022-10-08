@@ -1,0 +1,5 @@
+package fileCompress
+
+func main() {
+
+}
